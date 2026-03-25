@@ -21,15 +21,6 @@ flow, and transport properties.
 
 ---
 
-## 📁 Project Structure
-
-/AMPT-to-ROOT
-│── ampt_to_root.C # Main ROOT script
-│── README.md # Documentation
-
-
----
-
 ## 🚀 Requirements
 Make sure you have the following installed:
 
