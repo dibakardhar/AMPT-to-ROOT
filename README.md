@@ -24,8 +24,6 @@ flow, and transport properties.
 ## 📁 Project Structure
 /project-folder
 │── ampt_to_root.C # Main ROOT script
-│── input.dat # Example AMPT input file (optional)
-│── output.root # Generated ROOT file
 │── README.md # Documentation
 
 
